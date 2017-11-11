@@ -1,0 +1,14 @@
+Package: com.mrskelly.vilaowhite
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Skellytone <petrescutiberiu@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: /Vilao White.deb
+Size: 269765
+MD5sum: 410d9aaac22649240daf238292574628
+SHA1: 2d70555dccfbbf22cee16a43b0177362c7c33be3
+SHA256: df377650e0012848072ae6e16f4898e9bf94c4ee22b796f8fc072a8582ec82d829ea4cb94ae01312201a768e0ba14f99
+Section: Themes
+Description: Flat simple white
+Author: Skellytone <petrescutiberiu@gmail>
+Name: Vilao White
